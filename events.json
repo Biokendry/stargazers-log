@@ -1,0 +1,30 @@
+[
+  {
+    "full_name": "facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "html_url": "https://github.com/facebook/react",
+    "language": "JavaScript",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "full_name": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "html_url": "https://github.com/vercel/next.js",
+    "language": "JavaScript",
+    "starred_at": "2025-01-28"
+  },
+  {
+    "full_name": "python/cpython",
+    "description": "The Python programming language.",
+    "html_url": "https://github.com/python/cpython",
+    "language": "Python",
+    "starred_at": "2024-12-09"
+  },
+  {
+    "full_name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "html_url": "https://github.com/tailwindlabs/tailwindcss",
+    "language": "CSS",
+    "starred_at": "2024-11-03"
+  }
+]
